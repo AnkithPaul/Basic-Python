@@ -1,0 +1,3 @@
+name , age = input("what is ur name and age? ").split()# this command is use to put various input in one line but we have to use space to insert the answer if we didnt give anyother things like comma andall the answer will make an error so to use other things we have to do...
+print(name , age)
+name , age = input("what is ur name and age? ").split(",") # we can use comma "," as we have inserted comma in the split command 
